@@ -4,7 +4,7 @@ Date: July 31, 2022
 
 # TwentyEighth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://Rohit-Saini7.github.io/28-Video-Speed-Controller/).
+In this chalange, I learned hoe to control video playback speed using JavaScript. To experience on your own visit [here](https://Rohit-Saini7.github.io/28-Video-Speed-Controller/).
 
 ## What is JavaScript 30
 
